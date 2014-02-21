@@ -12,6 +12,8 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
+SHELL = /bin/bash
+
 # This should be defined by the invoking environment, pointing to the
 # executable that will perform the requested test actions.
 # Exit code of 127 is regarded as a skip test request..
